@@ -1,0 +1,109 @@
+h1 {
+    height: 26px;
+    width: 69px;
+    left: 17px;
+    top: 55px;
+    border-radius: nullpx;
+
+}
+
+#menu {
+    height: 28px;
+    width: 68px;
+    left: 17px;
+    top: 321px;
+    border-radius: nullpx;
+    font-family: Roboto;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: left;
+
+
+}
+
+#primeiro {
+    height: 43px;
+    width: 52px;
+    left: 102px;
+    top: 162px;
+    border-radius: nullpx;
+    font-family: Roboto;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 43px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+
+h3 {
+    height: 26px;
+    width: 44px;
+    left: 45px;
+    top: 1779px;
+    border-radius: nullpx;
+
+
+}
+
+.botao {
+    height: 42px;
+    width: 249px;
+    left: 201px;
+    top: 626px;
+    border-radius: 0px;
+    box-shadow: 0px 4px 4px 0px #00000040;
+    box-shadow: 0px 4px 4px 0px #00000040;
+
+}
+
+#doa {
+    height: 23px;
+    width: 205px;
+    left: 223px;
+    top: 636px;
+    border-radius: nullpx;
+    font-family: Roboto;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 23px;
+    letter-spacing: 0em;
+    text-align: left;
+
+
+}
+
+.wendell {
+    height: 117px;
+    width: 1257px;
+    left: 28px;
+    top: 825px;
+    border-radius: nullpx;
+    font-family: Roboto;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.doguinhos {
+    height: 117px;
+    width: 127px;
+    
+}
+
+.box {
+    box-sizing: border-box;
+    display: inline block;
+    background-color: white
+    width: 300px;
+    padding: 50px;
+    margin: 20px;
+}
