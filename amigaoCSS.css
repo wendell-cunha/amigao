@@ -1,13 +1,59 @@
+
+
+
+
 h1 {
-    height: 26px;
-    width: 69px;
-    left: 17px;
-    top: 55px;
-    border-radius: nullpx;
+    padding-left: 30px;
+    text-align: center;
 
 }
 
-#menu {
+.botao {
+    height: 42px;
+    width: 249px;
+    left: 201px;
+    top: 626px;
+    border-radius: 0px;
+    box-shadow: 0px 4px 4px 0px #00000040;
+    box-shadow: 0px 4px 4px 0px #00000040;
+
+}
+
+.botao-voluntario{
+    height: 23px;
+width: 135px;
+left: 45px;
+top: 994px;
+border-radius: nullpx;
+
+}
+
+
+.adote{
+    margin-left: 10px;
+}
+
+.dogs{
+    margin: 10px;
+}
+
+.dogs img{
+    height: 200px;
+width: 200px;
+left: 399px;
+top: 1537px;
+border-radius: 0px;
+
+}
+
+.container{
+    display:flex;
+
+}
+
+
+
+/* #menu {
     height: 28px;
     width: 68px;
     left: 17px;
@@ -106,4 +152,4 @@ h3 {
     width: 300px;
     padding: 50px;
     margin: 20px;
-}
+} */
